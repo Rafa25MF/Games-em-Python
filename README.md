@@ -9,7 +9,8 @@ Um repositório com diversos jogos desenvolvidos em **Python**, desde os mais si
 Alguns exemplos de jogos que você encontrará neste repositório:
 
 - **Tetris** – Jogo clássico.
-- **Batalha Pokámon** - Luta de Pokémons pelo terminal
+- **Batalha Pokámon** - Luta de Pokémons pelo terminal.
+- **Jogo de Detetive** - Descubra o Culpado pelo terminal.
 
 > Novos jogos serão adicionados constantemente.
 
